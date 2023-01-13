@@ -35,7 +35,17 @@ test
 ![](Screenshot%20(13).png)
 
 # Conclusions
+στο παιχνιδι θα βρειτε τους εξης χαρακτηρες και διακοσμητικα
+ΒΑΣΙΚΟΣ ΧΑΡΑΚΤΗΡΑΣ
+![](AncientSkeletonDownAttack03.png)
+ΚΑΚΟΣ 
+![](SkeletonWithBowDownJump.png)
+ΚΑΙ ΕΔΩ ΕΙΝΑΙ ΚΑΠΟΙΑ ΑΠΟ ΤΑ ΔΙΑΚΟΣΜΗΤΙΚΑ ΟΠΩΣ Η ΠΥΛΗ ΜΕΤΑΦΟΡΑΣ ΚΑΙ ΑΛΛΑ
+![](Portal001%20Sprite%20Sheet.png)
+![](Adding-transparent.png)
+![](32x32-bat-sprite.png)
 
+ΣΚΟΠΟΣ ΤΟΥ ΠΑΙΧΝΙΔΙΟΥ ΕΙΝΑΙ Ο ΠΑΙΚΤΗΣ ΝΑ ΕΠΙΒΙΩΣΗ ΜΕΣΑ ΣΤΗΝ ΠΙΣΤΑ ΧΩΡΙΣ ΝΑ ΠΕΘΑΝΙΕ.
 
 # Sources
 tileset και sprites βρηκα απο:
